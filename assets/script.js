@@ -9,7 +9,10 @@ const produtos = [
         quantidade: 3, 
         imagem: "assets/img/Placa_de_Video.png" 
     },
-    { nome: "PC Gamer Completo Mancer Krampus II, AMD Ryzen 5 5500, GeForce RTX 3060 12GB, 16GB DDR4, SSD 480GB + Monitor + Kit Periféricos", preco: 995.99 , quantidade: 8, imagem: "assets/img/pc_gamer.png" },
+    { nome: "PC Gamer Completo Mancer Krampus II, AMD Ryzen 5 5500, GeForce RTX 3060 12GB, 16GB DDR4, SSD 480GB + Monitor + Kit Periféricos",
+         preco: 995.99 , 
+         quantidade: 8, 
+         imagem: "assets/img/pc_gamer.png" },
     { nome: "Cadeira Gamer Pichau Donek S, Espuma Moldada, Preta, PG-DNKS-BK01",
          preco: 869.99 , 
          quantidade: 10, 
